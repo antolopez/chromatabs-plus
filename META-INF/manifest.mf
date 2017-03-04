@@ -1,0 +1,92 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ni5E9QGrgUnW8AiAFeoUOQ==
+SHA1-Digest: N/EVe+nocDMFGTfR0JyMs8iCw6g=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /vmy1n0Ze/2/fqrZY00YXQ==
+SHA1-Digest: NDNVXxfQ+StrPUej352unrIlfKA=
+
+Name: CHROMATABS
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1B2M2Y8AsgTpgAmY7PhCfg==
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: history.txt
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: saWZNJ1sbYRhNXP/1fZHRA==
+SHA1-Digest: o/VWBTwBqVV1VeqoFj2Py61N+f4=
+
+Name: LICENSE.TXT
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: v+H3XWBpEqQRHJB0PWxzJQ==
+SHA1-Digest: q6jXbQr2fVfaPDwyHKpZ89JCOGs=
+
+Name: content/chromatabs.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YsOkc1nhcMaO9X36DHHoEw==
+SHA1-Digest: uB94lK1YrcMkrIBEJJv6BqIbp7I=
+
+Name: content/overlay.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CAPUmpCuV2sJX0r8x7WJcg==
+SHA1-Digest: c9IxMHjF/FNh2s6nsmnf+v/YcVQ=
+
+Name: content/prefs.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EIqRwmmA81xOvZpXRDCjHw==
+SHA1-Digest: hoRsEbuh/n4BGLVvKofiN2YcGmw=
+
+Name: content/prefs.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +fl6gFLQAOeyxMsdrLN33g==
+SHA1-Digest: Tuz/XcT6SsUh4Bg/DfgQ+ymThnA=
+
+Name: content/prefs.xul.original
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rgE8u/u8jWQjk7dKeaexzA==
+SHA1-Digest: E2r+XJowPsLSU15WpgmDLGtlK7Y=
+
+Name: defaults/preferences/chromatabs.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UI4+nS7No2kBHadFlLFP0A==
+SHA1-Digest: X7FRUzdKIw1uk8454b1pjW9CGfQ=
+
+Name: skin/anim3.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9XziG+38wu9eb1TKKkEitQ==
+SHA1-Digest: ElVLlQaldCDP7D8o9bx/JONakqA=
+
+Name: skin/chromatabs-big.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: e/W61VInjIbmzD/+rhY5UA==
+SHA1-Digest: +rB6eHJ962pBraZdriiDSiuQxpM=
+
+Name: skin/chromatabs-icon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EfANR38qmKGN/PLmsM/COQ==
+SHA1-Digest: erGNk48FgQ+aYpE6gvu3sVHSM4c=
+
+Name: skin/chromatabs.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TBxwQZhn56EkJ+yu8my+WA==
+SHA1-Digest: A2juHaxxtJX2ML1MrzbE92etyeQ=
+
+Name: skin/close_clear.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3qW4CD9fJ9AckzA5c7IkLw==
+SHA1-Digest: PGlxSe9sxzg4LZKXzQ2uBvH6pqc=
+
+Name: skin/close_clear_down.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wlG4xEGdiWfLcKVyPNu+hQ==
+SHA1-Digest: nv0aFYF/FAME8kZk1uHg01euuMA=
+
+Name: skin/tab-passive-bkgnd.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hlxTr23YxlKvYY1IIIhbNg==
+SHA1-Digest: AfzINmo4nroSlkXZR4oKeMXXRiw=
+
